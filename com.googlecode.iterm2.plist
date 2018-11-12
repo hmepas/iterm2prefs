@@ -423,11 +423,11 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>220 131 606 469 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>898 1177 918 452 -600 1050 2560 1417 </string>
+	<string>898 1143 796 486 -600 1050 2560 1417 </string>
 	<key>NSWindow Frame com.apple.typography_panel_DejaVuSansMonoForPowerline</key>
 	<string>344 526 260 87 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-114 1079 1494 922 -600 1050 2560 1417 </string>
+	<string>-598 1591 1270 810 -600 1050 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>-534 1546 2410 766 -600 1050 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -1216,7 +1216,7 @@
 	<key>Print In Black And White</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
-	<true/>
+	<false/>
 	<key>SUAutomaticallyUpdate</key>
 	<false/>
 	<key>SUEnableAutomaticChecks</key>
@@ -1228,7 +1228,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-11-09T16:27:29Z</date>
+	<date>2018-11-12T13:52:01Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1270,6 +1270,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.2.4</string>
+	<string>3.2.5</string>
 </dict>
 </plist>
